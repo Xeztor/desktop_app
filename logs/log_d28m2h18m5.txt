@@ -1,4 +1,0 @@
-2021-02-28 18:05:35,451:bot_thread.py:INFO:CaseKing bot started
-2021-02-28 18:06:16,734:bot_thread.py:INFO:CaseKing completed
-2021-02-28 18:06:18,748:bot_thread.py:INFO:Mindfactory bot started
-2021-02-28 18:07:22,570:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']

@@ -1,5 +1,0 @@
-2021-02-28 10:32:20,520:bot_thread.py:INFO:CaseKing bot started
-2021-02-28 10:32:44,629:bot_thread.py:INFO:CaseKing completed
-2021-02-28 10:32:44,629:bot_thread.py:INFO:Mindfactory bot started
-2021-02-28 10:32:58,811:bot_thread.py:INFO:Models available: ['8GB Gigabyte GeForce RTX 3070 AORUS MASTER xDP/3xHDMI', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)', '16GB PowerColor Radeon RX 6800 Red Dragon DDR6 retail']
-2021-02-28 10:32:59,545:bot_thread.py:INFO:Mindfactory completed
