@@ -1,0 +1,1 @@
+{"models": ["GTX 1660 Ti", "RTX 3060 Ti", "RTX 3070", "RTX 3080", "RTX 3090"]}

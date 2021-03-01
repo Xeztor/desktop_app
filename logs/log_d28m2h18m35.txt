@@ -1,0 +1,2037 @@
+2021-02-28 18:35:41,296:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:36:07,293:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:36:07,293:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:36:22,496:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:36:23,198:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 18:39:23,199:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:39:47,849:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:39:47,849:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:40:02,453:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:40:03,116:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 18:40:40,892:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:41:05,405:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:41:05,405:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:41:20,551:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:41:21,223:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 18:44:21,223:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:44:45,405:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:44:45,405:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:44:59,415:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:45:00,244:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 18:48:00,244:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:48:25,052:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:48:25,052:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:48:39,233:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:48:40,043:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 18:51:40,043:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:52:04,695:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:52:04,695:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:52:18,667:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:52:19,345:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 18:55:19,346:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:55:43,574:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:55:43,575:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:55:57,502:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:55:58,180:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 18:58:58,180:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 18:59:23,582:bot_thread.py:INFO:CaseKing completed
+2021-02-28 18:59:23,583:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 18:59:37,377:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 18:59:38,074:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:02:38,075:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:02:43,783:bot_thread.py:ERROR:Caseking process terminated. Error: Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//www.caseking.de/pc-komponenten/grafikkarten/nvidia&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.caseking.de.
+
+2021-02-28 19:27:01,574:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:27:27,779:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:27:27,779:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:27:41,629:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:27:42,315:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:30:42,316:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:31:07,493:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:31:07,493:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:31:21,484:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:31:22,363:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:34:22,364:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:34:48,425:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:34:48,425:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:35:02,659:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:35:03,336:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:38:03,337:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:38:29,037:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:38:29,037:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:38:43,185:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:38:43,864:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:41:43,864:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:42:09,319:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:42:09,319:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:42:23,322:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:42:24,098:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:45:24,098:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:45:49,503:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:45:49,504:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:46:03,252:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:46:03,920:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:49:03,920:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:49:28,721:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:49:28,721:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:49:42,993:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:49:43,698:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:52:43,699:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:53:08,150:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:53:08,150:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:53:22,439:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:53:23,182:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 19:56:23,182:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 19:56:47,913:bot_thread.py:INFO:CaseKing completed
+2021-02-28 19:56:47,914:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 19:57:02,157:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 19:57:02,820:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:00:02,821:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:00:27,549:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:00:27,549:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:00:41,832:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:00:42,502:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:03:42,502:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:04:06,817:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:04:06,817:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:04:20,844:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:04:21,622:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:07:21,623:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:07:46,006:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:07:46,006:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:07:59,690:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:08:00,365:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:11:00,365:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:11:24,634:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:11:24,634:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:11:38,857:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:11:39,529:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:14:39,530:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:15:03,325:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:15:03,325:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:15:17,311:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:15:17,980:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:18:17,982:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:18:42,842:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:18:42,842:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:18:56,793:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:18:57,479:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:21:57,479:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:22:23,224:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:22:23,224:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:22:37,022:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:22:37,688:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:25:37,689:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:26:03,484:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:26:03,484:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:26:17,440:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:26:18,101:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:29:18,101:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:29:43,828:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:29:43,828:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:29:57,760:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:29:58,520:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:32:58,521:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:33:22,999:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:33:22,999:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:33:37,272:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:33:37,936:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:36:37,937:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:37:02,168:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:37:02,168:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:37:15,907:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:37:16,581:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:40:16,582:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:40:41,246:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:40:41,246:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:40:55,191:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:40:55,886:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:43:55,886:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:44:21,518:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:44:21,518:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:44:35,642:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:44:36,324:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:47:36,325:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:48:00,929:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:48:00,929:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:48:15,012:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:48:15,673:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:51:15,673:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:51:41,541:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:51:41,541:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:51:55,322:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:51:55,990:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:54:55,991:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:55:22,201:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:55:22,201:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:55:35,769:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:55:36,535:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 20:58:36,535:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 20:59:00,800:bot_thread.py:INFO:CaseKing completed
+2021-02-28 20:59:00,800:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 20:59:14,488:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 20:59:15,171:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:02:15,172:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:02:40,229:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:02:40,229:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:02:54,249:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:02:54,917:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:05:54,918:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:06:20,583:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:06:20,583:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:06:34,807:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:06:35,511:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:09:35,511:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:10:00,718:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:10:00,719:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:10:15,301:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:10:16,045:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:13:16,047:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:13:41,122:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:13:41,123:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:13:55,181:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:13:55,902:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:16:55,903:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:17:20,562:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:17:20,562:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:17:34,295:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:17:34,983:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:20:34,983:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:21:00,538:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:21:00,538:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:21:14,939:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:21:15,622:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:24:15,623:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:24:41,467:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:24:41,467:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:24:55,476:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:24:56,143:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:27:56,144:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:28:21,873:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:28:21,873:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:28:36,064:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:28:36,737:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:31:36,737:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:32:02,168:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:32:02,168:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:32:16,199:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:32:16,884:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:35:16,886:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:35:41,387:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:35:41,387:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:35:55,353:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:35:56,037:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:38:56,037:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:39:20,888:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:39:20,888:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:39:35,029:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:39:35,814:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:42:35,814:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:43:01,230:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:43:01,230:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:43:15,282:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:43:15,972:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:46:15,973:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:46:41,378:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:46:41,378:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:46:55,403:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:46:56,192:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:49:56,193:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:50:22,065:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:50:22,065:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:50:36,023:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:50:36,691:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:53:36,691:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:54:02,437:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:54:02,437:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:54:16,392:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:54:17,086:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 21:57:17,086:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 21:57:42,542:bot_thread.py:INFO:CaseKing completed
+2021-02-28 21:57:42,543:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 21:57:57,253:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 21:57:57,913:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:00:57,913:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:01:22,611:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:01:22,611:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:01:37,452:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:01:38,121:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:04:38,122:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:05:02,477:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:05:02,477:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:05:17,121:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:05:17,797:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:08:17,798:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:08:42,066:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:08:42,066:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:08:56,027:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:08:56,701:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:11:56,701:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:12:20,854:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:12:20,854:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:12:34,564:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:12:35,258:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:15:35,258:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:16:00,128:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:16:00,128:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:16:14,484:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:16:15,172:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:19:15,172:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:19:40,106:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:19:40,106:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:19:54,198:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:19:54,973:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:22:54,973:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:23:19,116:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:23:19,116:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:23:33,530:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:23:34,218:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:26:34,218:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:26:59,548:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:26:59,549:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:27:13,742:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:27:14,414:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:30:14,414:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:30:39,146:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:30:39,146:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:30:52,945:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:30:53,635:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:33:53,636:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:34:18,129:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:34:18,129:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:34:32,075:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:34:32,737:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:37:32,737:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:37:56,658:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:37:56,658:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:38:10,678:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:38:11,349:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:41:11,350:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:41:36,056:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:41:36,056:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:41:50,776:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:41:51,474:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:44:51,475:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:45:17,182:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:45:17,182:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:45:32,048:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:45:32,873:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:48:32,873:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:48:57,519:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:48:57,519:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:49:10,382:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:49:11,047:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:52:11,047:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:52:36,403:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:52:36,403:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:52:50,568:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:52:51,239:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:55:51,240:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:56:16,350:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:56:16,350:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 22:56:30,760:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 22:56:31,447:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 22:59:31,448:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 22:59:57,419:bot_thread.py:INFO:CaseKing completed
+2021-02-28 22:59:57,420:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:00:12,545:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:00:13,250:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:03:13,250:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:03:37,931:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:03:37,931:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:03:52,238:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:03:52,909:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:06:52,911:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:07:18,268:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:07:18,268:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:07:32,084:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:07:32,756:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:10:32,757:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:10:59,228:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:10:59,228:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:11:13,911:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:11:14,773:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:14:14,774:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:14:39,483:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:14:39,483:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:14:53,874:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:14:54,543:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:17:54,544:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:18:19,175:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:18:19,175:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:18:33,602:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:18:34,262:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:21:34,263:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:21:58,940:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:21:58,940:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:22:13,091:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:22:13,957:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:25:13,958:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:25:38,419:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:25:38,419:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:25:52,091:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:25:52,790:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:28:52,791:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:29:16,831:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:29:16,831:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:29:30,450:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:29:31,113:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:32:31,114:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:32:56,418:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:32:56,418:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:33:10,458:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:33:11,137:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:36:11,137:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:36:35,751:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:36:35,751:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:36:49,362:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:36:50,050:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:39:50,051:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:40:14,670:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:40:14,670:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:40:28,685:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:40:29,412:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:43:29,414:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:43:53,780:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:43:53,780:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:44:07,553:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:44:08,336:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:47:08,337:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:47:35,646:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:47:35,646:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:47:50,366:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:47:51,301:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:50:51,302:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:51:16,653:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:51:16,653:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:51:30,545:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:51:31,207:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:54:31,207:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:54:59,918:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:54:59,918:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:55:15,062:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:55:15,753:bot_thread.py:INFO:Mindfactory completed
+2021-02-28 23:58:15,754:bot_thread.py:INFO:CaseKing bot started
+2021-02-28 23:58:40,733:bot_thread.py:INFO:CaseKing completed
+2021-02-28 23:58:40,733:bot_thread.py:INFO:Mindfactory bot started
+2021-02-28 23:58:55,249:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-02-28 23:58:55,953:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:01:55,954:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:02:20,120:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:02:20,120:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:02:33,792:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:02:34,462:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:05:34,462:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:05:59,360:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:05:59,360:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:06:13,670:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:06:14,480:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:09:14,480:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:09:39,273:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:09:39,273:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:09:53,299:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:09:54,006:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:12:54,007:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:13:18,121:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:13:18,121:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:13:31,883:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:13:32,545:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:16:32,545:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:16:57,795:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:16:57,795:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:17:11,571:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:17:12,281:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:20:12,282:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:20:37,491:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:20:37,491:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:20:51,172:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:20:51,835:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:23:51,835:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:24:15,964:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:24:15,964:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:24:29,955:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:24:30,622:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:27:30,622:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:27:54,720:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:27:54,720:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:28:08,634:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:28:09,425:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:31:09,426:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:31:34,763:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:31:34,763:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:31:48,682:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:31:49,354:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:34:49,355:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:35:14,760:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:35:14,760:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:35:28,865:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:35:29,542:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:38:29,543:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:38:56,237:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:38:56,237:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:39:10,172:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:39:10,984:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:42:10,985:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:42:35,163:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:42:35,163:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:42:48,827:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:42:49,501:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:45:49,502:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:46:15,203:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:46:15,203:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:46:28,994:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:46:29,660:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:49:29,662:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:49:53,956:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:49:53,956:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:50:08,014:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:50:08,834:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:53:08,834:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:53:32,689:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:53:32,690:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:53:46,961:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:53:47,624:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 00:56:47,625:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 00:57:11,489:bot_thread.py:INFO:CaseKing completed
+2021-03-01 00:57:11,489:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 00:57:25,359:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 00:57:26,023:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:00:26,024:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:00:49,997:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:00:49,997:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:01:03,971:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:01:04,738:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:04:04,738:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:04:29,108:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:04:29,108:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:04:42,843:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:04:43,631:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:07:43,632:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:08:08,554:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:08:08,554:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:08:22,195:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:08:22,871:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:11:22,872:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:11:48,154:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:11:48,154:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:12:02,148:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:12:02,872:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:15:02,872:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:15:27,623:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:15:27,623:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:15:41,275:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:15:41,943:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:18:41,943:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:19:06,181:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:19:06,181:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:19:20,166:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:19:20,865:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:22:20,865:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:22:45,089:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:22:45,090:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:22:59,067:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:22:59,735:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:25:59,736:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:26:24,525:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:26:24,525:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:26:38,523:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:26:39,189:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:29:39,189:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:30:04,521:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:30:04,522:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:30:18,272:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:30:18,935:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:33:18,936:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:33:45,262:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:33:45,262:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:33:59,001:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:33:59,680:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:36:59,680:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:37:25,063:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:37:25,063:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:37:38,844:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:37:39,505:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:40:39,505:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:41:04,240:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:41:04,241:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:41:18,157:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:41:18,824:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:44:18,825:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:44:43,768:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:44:43,769:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:44:57,517:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:44:58,183:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:47:58,184:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:48:23,880:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:48:23,880:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:48:37,831:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:48:38,537:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:51:38,539:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:52:03,409:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:52:03,409:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:52:17,297:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:52:17,976:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:55:17,977:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:55:42,400:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:55:42,400:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:55:56,306:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:55:57,117:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 01:58:57,118:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 01:59:21,570:bot_thread.py:INFO:CaseKing completed
+2021-03-01 01:59:21,570:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 01:59:35,636:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 01:59:36,437:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:02:36,437:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:03:00,622:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:03:00,622:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:03:14,736:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:03:15,458:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:06:15,460:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:06:39,870:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:06:39,871:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:06:53,517:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:06:54,196:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:09:54,196:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:10:18,406:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:10:18,406:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:10:32,378:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:10:33,060:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:13:33,060:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:13:56,947:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:13:56,947:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:14:10,708:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:14:11,406:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:17:11,406:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:17:36,112:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:17:36,112:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:17:50,246:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:17:51,143:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:20:51,144:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:21:15,486:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:21:15,486:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:21:29,197:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:21:29,994:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:24:29,994:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:24:54,193:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:24:54,193:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:25:07,989:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:25:08,659:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:28:08,659:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:28:33,447:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:28:33,447:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:28:47,052:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:28:47,759:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:31:47,759:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:32:13,423:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:32:13,423:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:32:27,112:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:32:27,804:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:35:27,804:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:35:53,283:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:35:53,283:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:36:07,294:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:36:07,967:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:39:07,967:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:39:33,750:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:39:33,750:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:39:47,865:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:39:48,592:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:42:48,592:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:43:13,097:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:43:13,097:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:43:26,848:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:43:27,563:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:46:27,563:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:46:52,940:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:46:52,940:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:47:06,818:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:47:07,638:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:50:07,638:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:50:32,189:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:50:32,189:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:50:45,896:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:50:46,567:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:53:46,567:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:54:11,890:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:54:11,890:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:54:25,581:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:54:26,255:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 02:57:26,255:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 02:57:51,643:bot_thread.py:INFO:CaseKing completed
+2021-03-01 02:57:51,643:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 02:58:05,582:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 02:58:06,323:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:01:06,323:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:01:31,747:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:01:31,747:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:01:45,707:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:01:46,501:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:04:46,502:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:05:15,176:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:05:15,176:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:05:28,903:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:05:29,716:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:08:29,718:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:08:54,935:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:08:54,935:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:09:09,427:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:09:10,093:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:12:10,093:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:12:35,069:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:12:35,069:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:12:48,797:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:12:49,464:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:15:49,465:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:16:14,361:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:16:14,361:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:16:28,490:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:16:29,188:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:19:29,188:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:19:55,317:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:19:55,317:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:20:10,120:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:20:10,835:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:23:10,836:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:23:35,146:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:23:35,146:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:23:48,770:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:23:49,463:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:26:49,464:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:27:15,192:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:27:15,192:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:27:29,146:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:27:29,821:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:30:29,822:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:30:53,962:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:30:53,962:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:31:08,052:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:31:08,788:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:34:08,789:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:34:32,877:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:34:32,877:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:34:46,758:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:34:47,431:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:37:47,433:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:38:12,723:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:38:12,723:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:38:26,790:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:38:27,467:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:41:27,467:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:41:53,240:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:41:53,240:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:42:06,803:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:42:07,462:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:45:07,463:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:45:32,770:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:45:32,770:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:45:46,859:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:45:47,531:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:48:47,531:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:49:12,396:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:49:12,396:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:49:26,178:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:49:26,839:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:52:26,839:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:52:52,197:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:52:52,197:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:53:05,782:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:53:06,451:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:56:06,452:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 03:56:31,713:bot_thread.py:INFO:CaseKing completed
+2021-03-01 03:56:31,713:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 03:56:45,418:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 03:56:46,082:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 03:59:46,083:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:00:10,726:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:00:10,726:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:00:24,412:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:00:25,071:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:03:25,071:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:03:49,338:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:03:49,338:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:04:03,142:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:04:03,801:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:07:03,802:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:07:29,464:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:07:29,464:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:07:43,240:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:07:43,917:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:10:43,917:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:11:07,968:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:11:07,968:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:11:22,477:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:11:23,147:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:14:23,148:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:14:47,400:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:14:47,400:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:15:01,397:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:15:02,063:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:18:02,064:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:18:26,244:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:18:26,244:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:18:38,921:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:18:39,591:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:21:39,591:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:22:03,866:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:22:03,866:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:22:17,660:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:22:18,357:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:25:18,358:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:25:42,714:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:25:42,714:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:25:56,814:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:25:57,521:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:28:57,522:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:29:22,983:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:29:22,983:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:29:36,887:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:29:37,668:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:32:37,669:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:33:01,576:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:33:01,577:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:33:15,420:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:33:16,099:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:36:16,101:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:36:40,835:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:36:40,835:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:36:54,787:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:36:55,457:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:39:55,458:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:40:19,825:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:40:19,825:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:40:33,924:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:40:34,613:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:43:34,614:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:43:59,021:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:43:59,021:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:44:13,032:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:44:13,748:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:47:13,748:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:47:38,613:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:47:38,613:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:47:52,649:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:47:53,332:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:50:53,332:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:51:17,837:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:51:17,837:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:51:31,738:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:51:32,444:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:54:32,445:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:54:58,111:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:54:58,112:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:55:11,908:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:55:12,577:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 04:58:12,578:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 04:58:37,160:bot_thread.py:INFO:CaseKing completed
+2021-03-01 04:58:37,160:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 04:58:50,759:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 04:58:51,445:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:01:51,447:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:02:15,477:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:02:15,478:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:02:29,272:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:02:29,951:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:05:29,951:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:05:54,036:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:05:54,036:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:06:08,002:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:06:08,675:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:09:08,676:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:09:32,738:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:09:32,738:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:09:47,036:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:09:47,884:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:12:47,884:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:13:12,040:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:13:12,040:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:13:25,971:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:13:26,779:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:16:26,780:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:16:50,847:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:16:50,847:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:17:04,545:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:17:05,214:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:20:05,214:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:20:29,276:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:20:29,276:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:20:43,190:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:20:43,853:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:23:43,854:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:24:07,881:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:24:07,881:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:24:21,707:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:24:22,436:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:27:22,436:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:27:47,714:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:27:47,714:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:28:01,764:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:28:02,434:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:31:02,434:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:31:27,678:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:31:27,678:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:31:41,569:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:31:42,241:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:34:42,241:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:35:08,100:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:35:08,101:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:35:21,810:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:35:22,483:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:38:22,483:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:38:47,059:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:38:47,059:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:39:01,092:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:39:01,760:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:42:01,761:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:42:27,111:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:42:27,111:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:42:40,772:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:42:41,559:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:45:41,559:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:46:05,940:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:46:05,940:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:46:19,610:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:46:20,276:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:49:20,277:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:49:44,389:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:49:44,389:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:49:58,301:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:49:59,115:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:52:59,116:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:53:23,076:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:53:23,076:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:53:35,844:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:53:36,576:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 05:56:36,576:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 05:57:00,986:bot_thread.py:INFO:CaseKing completed
+2021-03-01 05:57:00,987:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 05:57:14,754:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 05:57:15,424:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:00:15,425:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:00:40,059:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:00:40,059:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:00:54,016:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:00:54,681:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:03:54,681:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:04:19,999:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:04:19,999:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:04:33,794:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:04:34,514:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:07:34,514:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:07:59,787:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:07:59,787:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:08:13,875:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:08:14,667:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:11:14,668:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:11:39,900:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:11:39,900:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:11:53,921:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:11:54,641:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:14:54,643:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:15:19,987:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:15:19,987:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:15:33,797:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:15:34,466:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:18:34,467:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:18:59,013:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:18:59,013:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:19:12,659:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:19:13,324:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:22:13,324:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:22:38,245:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:22:38,245:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:22:52,128:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:22:52,808:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:25:52,808:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:26:17,291:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:26:17,291:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:26:30,993:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:26:31,656:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:29:31,656:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:29:57,494:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:29:57,495:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:30:11,883:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:30:12,550:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:33:12,551:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:33:36,699:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:33:36,699:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:33:50,745:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:33:51,447:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:36:51,449:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:37:15,906:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:37:15,906:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:37:29,549:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:37:30,213:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:40:30,214:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:40:54,199:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:40:54,199:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:41:08,071:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:41:08,739:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:44:08,740:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:44:32,836:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:44:32,836:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:44:47,361:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:44:48,044:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:47:48,046:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:48:13,012:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:48:13,012:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:48:27,094:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:48:27,817:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:51:27,817:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:51:52,567:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:51:52,567:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:52:06,551:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:52:07,230:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:55:07,230:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:55:31,705:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:55:31,706:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:55:45,639:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:55:46,312:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 06:58:46,312:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 06:59:10,190:bot_thread.py:INFO:CaseKing completed
+2021-03-01 06:59:10,190:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 06:59:24,033:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 06:59:24,714:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:02:24,715:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:02:49,325:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:02:49,325:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:03:03,349:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:03:04,019:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:06:04,020:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:06:29,344:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:06:29,344:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:06:43,263:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:06:43,931:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:09:43,933:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:10:08,839:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:10:08,839:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:10:22,821:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:10:23,509:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:13:23,509:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:13:49,678:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:13:49,678:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:14:03,629:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:14:04,305:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:17:04,306:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:17:29,647:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:17:29,647:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:17:43,350:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:17:44,013:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:20:44,014:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:21:09,836:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:21:09,836:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:21:23,912:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:21:24,578:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:24:24,578:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:24:49,877:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:24:49,877:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:25:03,679:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:25:04,348:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:28:04,349:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:28:28,805:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:28:28,805:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:28:42,736:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:28:43,436:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:31:43,437:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:32:08,387:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:32:08,387:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:32:22,057:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:32:22,766:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:35:22,766:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:35:47,681:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:35:47,681:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:36:01,491:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:36:02,236:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:39:02,237:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:39:27,142:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:39:27,143:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:39:40,948:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:39:41,633:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:42:41,634:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:43:06,278:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:43:06,278:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:43:19,924:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:43:20,589:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:46:20,590:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:46:44,761:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:46:44,761:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:46:58,646:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:46:59,307:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:49:59,309:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:50:23,105:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:50:23,105:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:50:37,214:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:50:37,909:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:53:37,910:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:54:01,963:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:54:01,963:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:54:15,368:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:54:16,033:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 07:57:16,033:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 07:57:39,949:bot_thread.py:INFO:CaseKing completed
+2021-03-01 07:57:39,949:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 07:57:53,908:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 07:57:54,779:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:00:54,779:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:01:18,958:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:01:18,958:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:01:33,814:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:01:34,500:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:04:34,500:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:04:58,644:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:04:58,644:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:05:12,604:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:05:13,272:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:08:13,272:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:08:38,657:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:08:38,657:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:08:51,940:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:08:52,654:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:11:52,655:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:12:16,614:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:12:16,614:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:12:30,362:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:12:31,061:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:15:31,062:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:15:55,049:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:15:55,049:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:16:08,947:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:16:09,624:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:19:09,625:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:19:34,963:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:19:34,963:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:19:48,713:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:19:49,435:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:22:49,436:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:23:14,737:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:23:14,737:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:23:28,391:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:23:29,079:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:26:29,081:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:26:55,023:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:26:55,023:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:27:08,731:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:27:09,443:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:30:09,443:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:30:34,769:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:30:34,769:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:30:48,643:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:30:49,361:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:33:49,362:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:34:14,160:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:34:14,160:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:34:28,122:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:34:28,820:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:37:28,820:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:37:54,103:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:37:54,104:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:38:07,791:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:38:08,463:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:41:08,464:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:41:33,442:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:41:33,442:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:41:47,159:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:41:47,855:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:44:47,856:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:45:17,955:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:45:17,956:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:45:31,693:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:45:32,395:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:48:32,396:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:48:56,394:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:48:56,394:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:49:10,082:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:49:10,754:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:52:10,754:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:52:35,414:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:52:35,414:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:52:49,256:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:52:49,948:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:55:49,949:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:56:14,156:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:56:14,156:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 08:56:27,726:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 08:56:28,436:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 08:59:28,437:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 08:59:53,813:bot_thread.py:INFO:CaseKing completed
+2021-03-01 08:59:53,813:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:00:07,755:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:00:08,450:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:03:08,451:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:03:33,288:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:03:33,288:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:03:47,373:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:03:48,182:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:06:48,183:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:07:13,218:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:07:13,218:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:07:26,781:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:07:27,459:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:10:27,460:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:10:51,756:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:10:51,756:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:11:05,436:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:11:06,094:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:14:06,094:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:14:30,322:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:14:30,322:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:14:44,202:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:14:44,867:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:17:44,867:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:18:09,202:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:18:09,202:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:18:23,199:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:18:23,872:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:21:23,873:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:21:47,866:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:21:47,866:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:22:01,473:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:22:02,138:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:25:02,139:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:25:26,074:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:25:26,074:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:25:39,904:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:25:40,572:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:28:40,572:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:29:06,246:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:29:06,247:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:29:20,112:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:29:20,794:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:32:20,794:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:32:46,133:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:32:46,133:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:33:00,072:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:33:00,743:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:36:00,743:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:36:25,393:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:36:25,393:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:36:39,284:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:36:39,950:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:39:39,951:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:40:05,940:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:40:05,940:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:40:20,416:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:40:21,210:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:43:21,211:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:43:46,349:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:43:46,349:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:44:01,108:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)', '16GB PowerColor Radeon RX 6800 Red Dragon DDR6 retail']
+2021-03-01 09:44:01,929:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:47:01,930:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:47:26,496:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:47:26,496:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:47:40,681:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)', '16GB PowerColor Radeon RX 6800 Red Dragon DDR6 retail']
+2021-03-01 09:47:41,752:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:47:48,885:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:48:13,903:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:48:13,903:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:48:28,379:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)', '16GB PowerColor Radeon RX 6800 Red Dragon DDR6 retail']
+2021-03-01 09:48:29,072:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:51:29,073:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:51:53,532:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:51:53,533:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:52:08,948:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)', '16GB PowerColor Radeon RX 6800 Red Dragon DDR6 retail']
+2021-03-01 09:52:09,776:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:55:09,777:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:55:33,688:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:55:33,688:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:55:47,811:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:55:48,518:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 09:58:48,519:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 09:59:12,916:bot_thread.py:INFO:CaseKing completed
+2021-03-01 09:59:12,916:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 09:59:26,959:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 09:59:27,623:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:02:27,624:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:02:51,629:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:02:51,630:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:03:04,272:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:03:04,969:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:06:04,970:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:06:30,788:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:06:30,789:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:06:45,432:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:06:46,302:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:09:46,304:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:10:11,347:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:10:11,348:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:10:26,749:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:10:27,439:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:13:27,440:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:13:52,138:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:13:52,138:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:14:06,853:bot_thread.py:INFO:Models available: ['8GB Gigabyte GeForce RTX 3070 AORUS MASTER xDP/3xHDMI', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:14:07,645:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:17:07,645:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:17:32,253:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:17:32,253:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:17:47,008:bot_thread.py:INFO:Models available: ['8GB Gigabyte GeForce RTX 3070 AORUS MASTER xDP/3xHDMI', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:17:47,876:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:20:47,877:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:21:13,889:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:21:13,889:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:21:28,519:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:21:29,326:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:24:29,326:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:24:55,331:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:24:55,332:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:25:11,199:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:25:12,007:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:28:12,008:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:28:39,853:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:28:39,853:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:28:55,384:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:28:56,449:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:31:56,450:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:32:23,274:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:32:23,274:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:32:38,275:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:32:39,121:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:35:39,122:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:36:06,285:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:36:06,285:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:36:21,039:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 16GB PowerColor Radeon RX 6800 Red Dragon DDR6 retail
+2021-03-01 10:36:21,474:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:36:22,330:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:39:22,332:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:39:48,752:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:39:48,752:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:40:03,040:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 16GB PowerColor Radeon RX 6800 Red Dragon DDR6 retail
+2021-03-01 10:40:03,433:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:40:04,562:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:43:04,562:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:43:31,962:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:43:31,962:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:43:47,050:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:43:47,875:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:46:47,876:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:47:14,667:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:47:14,667:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:47:29,391:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:47:30,321:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:50:30,322:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:50:55,750:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:50:55,751:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:51:10,422:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:51:11,130:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:54:11,130:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:54:36,619:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:54:36,619:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:54:50,246:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:54:51,112:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 10:57:51,112:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 10:58:15,069:bot_thread.py:INFO:CaseKing completed
+2021-03-01 10:58:15,069:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 10:58:28,913:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 10:58:29,585:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:01:29,585:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:01:54,408:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:01:54,408:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:02:08,600:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 11:02:09,282:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:05:09,283:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:05:33,619:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:05:33,619:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:05:47,308:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 11:05:48,000:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:08:46,703:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:09:11,760:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:09:11,760:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:09:25,714:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 11:09:26,380:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:12:26,380:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:12:51,288:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:12:51,288:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:13:05,251:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 11:13:05,925:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:16:05,926:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:16:31,253:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:16:31,253:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:16:45,036:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Devil Edition DDR6 (Retail)']
+2021-03-01 11:16:45,705:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:19:45,706:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:20:11,699:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:20:11,699:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:20:25,316:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:20:25,998:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:23:25,998:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:23:51,828:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:23:51,828:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:24:05,428:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:24:06,095:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:27:06,095:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:27:31,895:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:27:31,895:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:27:45,891:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:27:46,662:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:30:46,663:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:31:12,901:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:31:12,901:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:31:26,982:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:31:27,757:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:34:27,757:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:34:53,012:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:34:53,012:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:35:07,040:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:35:07,725:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:38:07,726:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:38:33,086:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:38:33,086:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:38:46,673:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:38:47,385:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:41:47,386:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:42:14,904:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:42:14,904:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:42:29,188:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:42:29,885:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:45:29,885:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:45:54,380:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:45:54,380:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:46:08,701:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:46:09,384:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:49:09,384:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:49:33,888:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:49:33,888:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:49:47,784:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:49:48,458:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:52:48,458:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:53:13,247:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:53:13,247:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:53:27,716:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:53:28,390:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 11:56:28,390:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 11:56:53,150:bot_thread.py:INFO:CaseKing completed
+2021-03-01 11:56:53,150:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 11:57:07,233:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 11:57:07,901:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:00:07,901:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:00:32,397:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:00:32,397:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:00:47,154:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:00:47,876:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:03:47,883:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:04:15,524:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:04:15,524:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:04:30,752:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:04:31,592:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:07:31,595:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:07:59,296:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:07:59,296:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:08:14,736:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:08:15,762:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:11:15,767:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:11:42,368:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:11:42,368:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:11:58,049:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:11:59,165:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:14:59,165:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:15:23,991:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:15:23,991:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:15:38,626:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:15:39,412:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:18:39,413:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:19:05,132:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:19:05,132:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:19:19,018:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:19:19,723:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:22:19,723:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:22:45,296:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:22:45,297:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:22:59,303:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:22:59,979:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:25:59,979:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:26:25,695:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:26:25,695:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:26:39,754:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:26:40,448:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:29:40,448:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:30:07,162:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:30:07,163:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:30:21,756:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:30:22,433:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:33:22,434:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:33:46,869:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:33:46,869:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:34:00,868:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:34:01,543:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:37:01,544:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:37:26,801:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:37:26,801:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:37:40,448:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:37:41,444:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:40:41,445:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:41:07,808:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:41:07,808:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:41:22,022:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:41:22,833:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:44:22,833:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:44:47,207:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:44:47,207:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:45:00,998:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:45:01,667:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:48:01,668:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:48:27,273:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:48:27,273:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:48:41,115:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:48:41,796:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:51:41,796:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:52:07,473:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:52:07,473:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:52:21,089:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:52:21,755:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:55:21,756:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:55:45,842:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:55:45,843:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:55:59,505:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:56:00,209:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 12:59:00,209:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 12:59:24,971:bot_thread.py:INFO:CaseKing completed
+2021-03-01 12:59:24,971:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 12:59:38,556:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 12:59:39,254:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:02:39,254:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:03:04,227:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:03:04,227:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:03:18,484:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:03:19,237:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:06:19,237:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:06:43,431:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:06:43,431:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:06:58,014:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:06:58,692:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:09:58,693:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:10:22,929:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:10:22,929:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:10:35,858:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:10:36,524:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:13:36,524:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:14:01,831:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:14:01,831:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:14:15,708:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:14:17,018:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:17:17,019:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:17:42,893:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:17:42,893:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:17:56,722:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:17:57,399:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:20:57,400:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:21:22,476:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:21:22,476:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:21:37,046:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:21:37,853:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:24:37,855:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:25:03,468:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:25:03,469:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:25:17,406:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:25:18,101:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:28:18,102:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:28:43,183:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:28:43,183:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:28:57,372:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:28:58,050:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:31:58,051:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:32:23,615:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:32:23,615:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:32:37,647:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:32:38,332:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:35:38,332:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:36:05,114:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:36:05,114:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:36:20,146:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:36:21,220:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:39:21,221:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:39:45,406:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:39:45,406:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:39:59,368:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:40:00,103:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:43:00,104:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:43:24,559:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:43:24,559:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:43:38,541:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:43:39,212:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:46:39,213:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:47:04,541:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:47:04,542:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:47:18,247:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:47:18,933:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:50:18,933:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:50:43,693:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:50:43,693:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:50:57,531:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:50:58,252:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:53:58,252:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:54:24,399:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:54:24,399:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:54:38,344:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:54:39,010:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 13:57:39,010:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 13:58:03,583:bot_thread.py:INFO:CaseKing completed
+2021-03-01 13:58:03,583:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 13:58:17,599:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 13:58:18,273:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:01:18,273:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:01:42,808:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:01:42,808:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:01:57,231:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:01:57,995:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:04:57,995:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:05:23,709:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:05:23,710:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:05:37,954:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:05:38,625:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:08:38,626:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:09:03,225:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:09:03,225:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:09:17,781:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:09:18,634:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:12:18,635:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:12:44,271:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:12:44,272:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:12:58,117:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:12:58,923:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:15:58,925:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:16:24,277:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:16:24,277:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:16:38,143:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:16:38,849:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:19:38,850:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:20:04,673:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:20:04,673:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:20:18,823:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:20:19,512:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:23:19,513:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:23:45,128:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:23:45,129:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:23:59,329:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:24:00,136:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:27:00,137:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:27:30,084:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:27:30,084:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:27:44,639:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:27:45,321:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:30:45,321:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:31:09,721:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:31:09,721:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:31:24,639:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:31:25,290:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:34:25,291:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:34:49,507:bot_thread.py:INFO:Models available: ['ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White, 8192 MB GDDR6']
+2021-03-01 14:34:50,257:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:34:50,258:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:35:04,208:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:35:04,875:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:38:04,876:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:38:29,142:bot_thread.py:INFO:Models available: ['ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White, 8192 MB GDDR6']
+2021-03-01 14:38:29,881:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:38:29,881:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:38:44,703:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:38:45,394:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:41:45,394:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:42:09,309:bot_thread.py:INFO:Models available: ['ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White, 8192 MB GDDR6']
+2021-03-01 14:42:10,202:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:42:10,203:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:42:24,740:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:42:25,413:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:45:25,413:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:45:49,837:bot_thread.py:INFO:Models available: ['ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White, 8192 MB GDDR6']
+2021-03-01 14:45:50,573:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:45:50,573:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:46:04,757:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:46:05,428:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:49:05,429:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:49:29,352:bot_thread.py:INFO:Models available: ['ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White, 8192 MB GDDR6']
+2021-03-01 14:49:30,097:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:49:30,097:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:49:44,441:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:49:45,273:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:52:45,273:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:53:10,724:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:53:10,725:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:53:25,416:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 14:53:26,186:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 14:56:26,188:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 14:56:50,679:bot_thread.py:INFO:CaseKing completed
+2021-03-01 14:56:50,679:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 14:57:06,653:bot_thread.py:INFO:Models available: ['8GB MSI GeForce RTX 3070 VENTUS 3X OC 8GB DDR6', '8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '8GB Gigabyte GeForce RTX 3070 Vision OC 8G, GDDR6, 2x HDMI, 2x DP (GV-N3070VISION OC-8GD)', '8GB Palit GeForce RTX 3070 GamingPro OC GDDDR6 (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Dragon DDR6 (Retail)']
+2021-03-01 14:57:07,587:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:00:07,587:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:00:32,393:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:00:32,394:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:00:46,630:bot_thread.py:INFO:Models available: ['8GB MSI GeForce RTX 3070 VENTUS 3X OC 8GB DDR6', '8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '8GB Gigabyte GeForce RTX 3070 Vision OC 8G, GDDR6, 2x HDMI, 2x DP (GV-N3070VISION OC-8GD)', '8GB Palit GeForce RTX 3070 GamingPro OC GDDDR6 (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Dragon DDR6 (Retail)']
+2021-03-01 15:00:47,296:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:03:47,297:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:04:12,396:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:04:12,396:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:04:25,559:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 8GB Palit GeForce RTX 3070 GamingPro OC GDDDR6 (Retail)
+2021-03-01 15:04:26,509:bot_thread.py:INFO:Models available: ['8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '8GB Gigabyte GeForce RTX 3070 Vision OC 8G, GDDR6, 2x HDMI, 2x DP (GV-N3070VISION OC-8GD)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Dragon DDR6 (Retail)']
+2021-03-01 15:04:27,183:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:07:27,184:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:07:51,710:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:07:51,710:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:08:05,512:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 8GB Palit GeForce RTX 3070 GamingPro OC GDDDR6 (Retail)
+2021-03-01 15:08:06,271:bot_thread.py:INFO:Models available: ['8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Dragon DDR6 (Retail)', '16GB ASRock Radeon RX 6800 XT Taichi DDR6', '16GB XFX Speedster MERC 319 Radeon RX 6800 XT Black Gaming, GDDR6, HDMI, 2x DP, USB-C (RX-68XTACBD9)']
+2021-03-01 15:08:06,939:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:11:06,940:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:11:31,382:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:11:31,382:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:11:45,583:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 8GB Palit GeForce RTX 3070 GamingPro OC GDDDR6 (Retail)
+2021-03-01 15:11:46,078:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 16GB XFX Speedster MERC 319 Radeon RX 6800 XT Black Gaming, GDDR6, HDMI, 2x DP, USB-C (RX-68XTACBD9)
+2021-03-01 15:11:46,303:bot_thread.py:INFO:Models available: ['8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Dragon DDR6 (Retail)', '16GB ASRock Radeon RX 6800 XT Taichi DDR6']
+2021-03-01 15:11:46,970:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:14:46,971:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:15:11,433:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:15:11,433:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:15:26,713:bot_thread.py:INFO:Models available: ['8GB KFA2 GeForce RTX 3070 EX 1-Click OC GDDR6 256-bit DP*3/HDMI (Retail)', '8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Dragon DDR6 (Retail)', '16GB ASRock Radeon RX 6800 XT Taichi DDR6', '16GB Gigabyte Radeon RX 6800 XT AORUS MASTER 2xHDMI / 1xDP / 1x USB-C (Retail)', '16GB XFX Radeon RX 6800XT Speedster MERC319 GAMING DDR6 (Retail)']
+2021-03-01 15:15:27,385:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:18:27,386:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:18:52,687:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:18:52,687:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:19:06,953:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 16GB XFX Radeon RX 6800XT Speedster MERC319 GAMING DDR6 (Retail)
+2021-03-01 15:19:07,213:bot_thread.py:INFO:Models available: ['8GB KFA2 GeForce RTX 3070 EX 1-Click OC GDDR6 256-bit DP*3/HDMI (Retail)', '8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '16GB Powercolor Radeon RX 6800XT Red Dragon DDR6 (Retail)', '16GB ASRock Radeon RX 6800 XT Taichi DDR6', '16GB Gigabyte Radeon RX 6800 XT AORUS MASTER 2xHDMI / 1xDP / 1x USB-C (Retail)']
+2021-03-01 15:19:08,008:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:22:08,008:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:22:34,590:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:22:34,591:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:22:48,859:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 16GB XFX Radeon RX 6800XT Speedster MERC319 GAMING DDR6 (Retail)
+2021-03-01 15:22:49,087:bot_thread.py:INFO:Models available: ['8GB KFA2 GeForce RTX 3070 EX 1-Click OC GDDR6 256-bit DP*3/HDMI (Retail)', '8GB Gigabyte GeForce RTX 3070 GAMING OC 2xDP/2xHDMI (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:22:49,772:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:25:49,772:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:26:14,814:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:26:14,814:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:26:29,139:bot_thread.py:INFO:Models available: ['8GB KFA2 GeForce RTX 3070 EX 1-Click OC GDDR6 256-bit DP*3/HDMI (Retail)', '16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:26:29,801:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:29:29,802:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:29:54,513:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:29:54,513:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:30:08,951:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:30:09,633:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:33:09,633:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:33:34,253:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:33:34,253:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:33:48,031:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:33:48,696:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:36:48,697:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:37:13,997:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:37:13,997:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:37:27,894:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '8GB Sapphire Nitro+ Radeon RX 5700 XT BE 8G, GDDR6, HDMI, 3x DP, full retail (11293-10-40G)']
+2021-03-01 15:37:28,584:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:40:28,584:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:40:53,319:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:40:53,319:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:41:07,298:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)', '8GB Sapphire Nitro+ Radeon RX 5700 XT BE 8G, GDDR6, HDMI, 3x DP, full retail (11293-10-40G)']
+2021-03-01 15:41:07,998:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:44:08,000:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:44:33,527:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:44:33,527:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:44:47,351:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:44:48,045:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:47:48,046:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:48:13,027:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:48:13,027:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:48:26,537:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 8GB Sapphire Radeon RX 5700 XT Nitro+ Special Edition Aktiv PCIe 4.0 x16 (Retail)
+2021-03-01 15:48:26,571:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 16GB Sapphire Radeon RX 6800 XT NITRO+ OC HDMI/3xDP
+2021-03-01 15:48:26,842:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:48:27,505:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:51:27,506:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:51:52,482:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:51:52,482:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:52:06,184:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 8GB Sapphire Radeon RX 5700 XT Nitro+ Special Edition Aktiv PCIe 4.0 x16 (Retail)
+2021-03-01 15:52:06,193:bot_thread.py:ERROR:Unable to locate element: .shipping1 for model: 16GB Sapphire Radeon RX 6800 XT NITRO+ OC HDMI/3xDP
+2021-03-01 15:52:06,559:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:52:07,327:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:55:07,328:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:55:31,991:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:55:31,991:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:55:45,915:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:55:46,591:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 15:58:46,593:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 15:59:11,158:bot_thread.py:INFO:CaseKing completed
+2021-03-01 15:59:11,158:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 15:59:25,084:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 15:59:25,775:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:02:25,776:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:02:50,280:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:02:50,281:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:03:04,148:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:03:04,833:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:06:04,833:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:06:30,102:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:06:30,103:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:06:45,663:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:06:46,340:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:09:46,342:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:10:11,578:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:10:11,578:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:10:25,959:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:10:26,626:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:13:26,626:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:13:51,068:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:13:51,068:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:14:05,109:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:14:05,793:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:17:05,794:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:17:30,612:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:17:30,612:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:17:44,700:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:17:45,388:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:20:45,388:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:21:09,521:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:21:09,521:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:21:23,988:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:21:24,670:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:24:24,671:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:24:49,572:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:24:49,572:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:25:04,476:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:25:05,216:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:28:05,218:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:28:29,837:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:28:29,837:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:28:45,000:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:28:45,706:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:31:45,706:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:32:10,743:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:32:10,743:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:32:24,725:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:32:25,389:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:35:25,389:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:35:49,885:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:35:49,885:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:36:04,013:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:36:04,693:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:39:04,694:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:39:28,720:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 16:39:29,449:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:39:29,449:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:39:43,530:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:39:44,503:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:42:44,504:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:43:08,104:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 16:43:08,869:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:43:08,870:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:43:22,861:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:43:23,528:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:46:23,529:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:46:46,618:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 16:46:47,347:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:46:47,347:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:47:02,147:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:47:02,824:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:50:02,825:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:50:27,366:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 16:50:28,215:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:50:28,215:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:50:43,835:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:50:44,512:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:53:44,513:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:54:08,244:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 16:54:08,993:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:54:08,993:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:54:23,428:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:54:24,097:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 16:57:24,105:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 16:57:47,718:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 16:57:48,470:bot_thread.py:INFO:CaseKing completed
+2021-03-01 16:57:48,470:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 16:58:03,238:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 16:58:04,067:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:01:04,068:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:01:29,206:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:01:29,966:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:01:29,967:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:01:44,292:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:01:44,971:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:04:44,972:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:05:10,595:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:05:11,364:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:05:11,364:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:05:25,605:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:05:26,290:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:08:26,292:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:08:50,490:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:08:51,310:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:08:51,310:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:09:05,927:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:09:06,730:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:12:06,732:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:12:30,762:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:12:31,507:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:12:31,507:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:12:45,599:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:12:46,277:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:15:46,278:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:16:11,151:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:16:11,999:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:16:11,999:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:16:26,117:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:16:26,776:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:19:26,777:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:19:51,719:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:19:52,459:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:19:52,459:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:20:07,056:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:20:07,818:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:23:07,818:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:23:31,933:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:23:32,667:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:23:32,667:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:23:46,862:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:23:47,527:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:26:47,529:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:27:12,235:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:27:13,112:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:27:13,112:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:27:27,266:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:27:28,079:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:30:28,080:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:30:52,194:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:30:52,950:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:30:52,950:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:31:06,720:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:31:07,410:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:34:07,410:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:34:31,973:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:34:32,703:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:34:32,703:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:34:46,678:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:34:47,336:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:37:47,336:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:38:10,902:bot_thread.py:INFO:Models available: ['MSI GeForce RTX 3070 Gaming X Trio, 8192 MB GDDR6']
+2021-03-01 17:38:11,746:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:38:11,746:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:38:25,885:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:38:26,557:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:41:26,572:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:41:50,750:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:41:50,750:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:42:04,915:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:42:05,619:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:45:05,626:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:45:30,004:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:45:30,004:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:45:43,939:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:45:44,656:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:48:44,663:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:49:10,345:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:49:10,345:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:49:24,627:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:49:25,316:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:52:25,316:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:52:51,152:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:52:51,152:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:53:05,478:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:53:06,178:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:56:06,178:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 17:56:31,109:bot_thread.py:INFO:CaseKing completed
+2021-03-01 17:56:31,110:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 17:56:46,006:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 17:56:46,683:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 17:59:46,683:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:00:10,646:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:00:10,646:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:00:25,143:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:00:25,888:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:03:25,889:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:03:50,542:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:03:50,542:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:04:04,634:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:04:05,409:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:07:05,411:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:07:30,675:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:07:30,675:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:07:45,019:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:07:45,808:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:10:45,808:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:11:10,923:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:11:10,923:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:11:24,350:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:11:25,180:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:14:25,181:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:14:50,321:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:14:50,321:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:15:04,662:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:15:05,325:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:18:05,325:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:18:29,888:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:18:29,888:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:18:44,335:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:18:45,098:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:21:45,098:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:22:10,101:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:22:10,101:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:22:24,242:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:22:24,903:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:25:24,903:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:25:49,410:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:25:49,410:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:26:03,446:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:26:04,215:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:29:04,216:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:29:28,557:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:29:28,557:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:29:43,166:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:29:43,836:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:32:43,837:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:33:09,738:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:33:09,739:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:33:24,724:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:33:25,547:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:36:25,548:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:36:50,285:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:36:50,285:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:37:04,844:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:37:05,525:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:40:05,526:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:40:30,427:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:40:30,427:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:40:45,443:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:40:46,144:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:43:46,144:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:44:10,648:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:44:10,648:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:44:25,100:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:44:25,876:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:47:25,876:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:47:50,675:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:47:50,676:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:48:05,054:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:48:05,735:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:51:05,736:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:51:30,056:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:51:30,056:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:51:44,540:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:51:45,270:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:54:45,270:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:55:10,132:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:55:10,132:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:55:25,007:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:55:25,712:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 18:58:25,714:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 18:58:49,740:bot_thread.py:INFO:CaseKing completed
+2021-03-01 18:58:49,740:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 18:59:04,522:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 18:59:05,193:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 19:02:05,193:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 19:02:29,544:bot_thread.py:INFO:CaseKing completed
+2021-03-01 19:02:29,544:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 19:02:42,734:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 19:02:43,524:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 19:05:43,524:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 19:06:14,410:bot_thread.py:INFO:CaseKing completed
+2021-03-01 19:06:14,410:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 19:06:28,150:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 19:06:28,864:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 19:09:28,865:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 19:09:52,837:bot_thread.py:INFO:CaseKing completed
+2021-03-01 19:09:52,837:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 19:10:06,698:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 19:10:07,352:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 19:13:07,353:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 19:13:31,538:bot_thread.py:INFO:CaseKing completed
+2021-03-01 19:13:31,539:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 19:13:45,609:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 19:13:46,283:bot_thread.py:INFO:Mindfactory completed
+2021-03-01 19:16:46,285:bot_thread.py:INFO:CaseKing bot started
+2021-03-01 19:17:11,129:bot_thread.py:INFO:CaseKing completed
+2021-03-01 19:17:11,129:bot_thread.py:INFO:Mindfactory bot started
+2021-03-01 19:17:25,416:bot_thread.py:INFO:Models available: ['16GB Gigabyte Radeon RX 6800 XT Gaming OC GDDR6 2xHDMI 2xDP (Retail)']
+2021-03-01 19:17:26,095:bot_thread.py:INFO:Mindfactory completed
